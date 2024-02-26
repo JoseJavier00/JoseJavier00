@@ -2,7 +2,7 @@ Bienvenidos👋 Mi nombre es JoseJavier00
 
 <img src="https://github.com/JoseJavier00/banner/blob/626330d180def39988586691a57a964bc5245688/Banner%20de%20LinkedIn%20Tecnologi%CC%81a%20Abstracto%20Azul%20y%20Blanco.png" height="240" width="480">
 
-=============================  Programador de Aplicaciones Multiplataforma 
+==========  Programador de Aplicaciones Multiplataforma ========== 
 -------------------------------------------  
 Estoy empezando en esta maravillosa aventura en el mundo de la informática , estoy bastante ilusionado. 
 
