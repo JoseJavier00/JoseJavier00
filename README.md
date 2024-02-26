@@ -1,5 +1,5 @@
-Hi 👋 My name is JoseJavier00 
-Banner de LinkedIn Tecnología Abstracto Azul y Blanco.png
+Bienvenidos👋 Mi nombre es JoseJavier00 
+<img src="https://github.com/favicon.ico" height="240" width="480">
 =============================  Programador de Aplicaciones Multiplataforma -------------------------------------------  Estoy empezando en esta maravillosa aventura en el mundo de la informática , estoy bastante ilusionado. 
 🌍  I'm based in Pilar de la Horadada,Alicante,Spain 
 ✉️  You can contact me at [josejgg2004@gmail.com](mailto:josejgg2004@gmail.com) 
